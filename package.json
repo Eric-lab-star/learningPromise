@@ -1,0 +1,28 @@
+{
+  "name": "learningpromise",
+  "version": "1.0.0",
+  "description": "learning",
+  "scripts": {
+    "dev": "nodemon --exec babel-node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eric-lab-star/learningPromise.git"
+  },
+  "author": "erci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eric-lab-star/learningPromise/issues"
+  },
+  "homepage": "https://github.com/Eric-lab-star/learningPromise#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "nodemon": "^2.0.15"
+  }
+}
